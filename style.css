@@ -1,0 +1,31 @@
+.bg-glint {
+    background-color:whitesmoke;
+}
+.bg-about {
+    background-color: white;
+}
+.bg-aboutfill {
+    background-color: rgb(79, 197, 243);
+}
+
+.center {
+    text-align: center;
+}
+
+.ctrabout {
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+.footer {
+    position:relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(0, 1, 17);
+    color: white;
+    text-align: center;
+ }
+.mydesign{
+    text-align: center;
+}
